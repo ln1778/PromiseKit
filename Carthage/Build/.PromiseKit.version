@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "453522bb34cb32d26e75a6ba8be3254d52bc38f9",
+  "iOS" : [
+    {
+      "hash" : "ba434fbce28eff85d1451a7d2d9a46b5fddf7c9f3fa1c1740490e8b04ba7c603",
+      "name" : "PromiseKit",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+    }
+  ]
+}
